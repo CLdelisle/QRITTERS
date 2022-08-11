@@ -1,2 +1,2 @@
 # QRITTERS
- An investigation of quantum critters
+An investigation of critters in a quantum world
