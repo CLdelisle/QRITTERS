@@ -12,7 +12,6 @@ These gliders can then be "scattered" off of one another:
 
 Scattering 1 | Scattering 2
 :- | :- 
-![gliders_init_1](img/glider_scattering_1.png) | ![gliders_init_2](img/glider_scattering_2.png)
 ![glider_scattering_1](img/glider_scattering_1.gif) | ![glider_scattering_2](img/glider_scattering_2.gif)
 
 Noting that this sort of scattering is not unlike the quantum [particle scattering experiments](https://en.wikipedia.org/wiki/Scattering) used to test the [Standard Model](https://en.wikipedia.org/wiki/Standard_Model) of particle physics, one can ask whether we can do quantum scattering with these gliders as well.
