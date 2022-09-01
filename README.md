@@ -18,7 +18,7 @@ Noting that this sort of scattering is not unlike the quantum [particle scatteri
 
 Qritters does exactly this, by "quantizing" the classical Critters automaton, and implementing it on a (simulated) quantum computer. The model is simple, but it allows for the simulation of a scattering event between two gliders - one of which is in a quantum superposition.
 
-![quantum superposition scattering](img/quantum_superposition.gif) 
+![quantum superposition scattering](img/quantum_superposition_no_bar.gif) 
 
 In other words this is the first simulation of the generation of quantum entanglement between emergent virtual creatures.
 
