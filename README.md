@@ -4,7 +4,7 @@ An investigation of critters in a quantum world
 ## What is Qritters?
 Qritters is a simulation of a tiny virtual world which obeys the rules of quantum mechanics, much like the world we live in. 
 
-It starts with a cellular automaton called [Critters](https://en.wikipedia.org/wiki/Critters_(cellular_automaton%29). The world of Critters is made up of cells which can be either `ON` or `OFF`, along with a reversible rule for updating the state of each cell as time moves forward. The seemingly simple rules of Critters result in interesting behavior, including the emergence of small entities, like the "glider" shown below.
+It starts with a cellular automaton called [Critters](https://en.wikipedia.org/wiki/Critters_(cellular_automaton)). The world of Critters is made up of cells which can be either `ON` or `OFF`, along with a reversible rule for updating the state of each cell as time moves forward. The seemingly simple rules of Critters result in interesting behavior, including the emergence of small entities, like the "glider" shown below.
 
 ![glider](img/glider.gif)
 
