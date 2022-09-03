@@ -30,4 +30,4 @@ The second notebook, [II_Reversible_CA.ipynb](II_Reversible_CA.ipynb), describes
 The third notebook, [III_Quantum_CA.ipynb](III_Quantum_CA.ipynb), then defines our simple "quantized" version of Critters ("Qritters"). The implementation of Qritters as a simulated quantum circuit is given here, using Python and [Qiskit](https://qiskit.org). The quantum glider scattering is carried out, and we show some evidence that the gliders are entangled with one another.
 
 ## What's next for Qritters?
-Right now the next thing on the to-do list is to modify the experiment to show quantum interference in the measurement statistics of the gliders.
+Right now the next thing on the to-do list (in addition to cleaning up some of the existing code) is to explore more rigorous methods of witnessing entanglement between gliders. This will also involve considering more interesting initial conditions.
