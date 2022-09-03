@@ -27,7 +27,7 @@ The first notebook, [I_Intro_to_CA.ipynb](I_Intro_to_CA.ipynb), contains an intr
 
 The second notebook, [II_Reversible_CA.ipynb](II_Reversible_CA.ipynb), describes the classical automaton Critters, and implements it in Python.
 
-The third notebook, [III_Quantum_CA.ipynb](III_Quantum_CA.ipynb), then defines our simple "quantized" version of Critters ("Qritters"). The implementation of Qritters as a simulated quantum circuit is given here, using Python and [Qiskit](https://qiskit.org). The quantum glider scattering is carried out, and the gliders are shown to be entangled with one another.
+The third notebook, [III_Quantum_CA.ipynb](III_Quantum_CA.ipynb), then defines our simple "quantized" version of Critters ("Qritters"). The implementation of Qritters as a simulated quantum circuit is given here, using Python and [Qiskit](https://qiskit.org). The quantum glider scattering is carried out, and we show some evidence that the gliders are entangled with one another.
 
 ## What's next for Qritters?
-There are various things that may be on the horizon for this project. Perhaps the most obvious thing to investigate is the fact that the quantization procedure used here is far from unique. There are many ways to "quantize" a model of this sort. Notably, the current exploration of Qritters doesn't really exploit the fact that quantum mechanics is inherently formulated using <i>complex</i> numbers. Indeed the unitary time evolution operator in the Qritters Universe is entirely <i>real</i> in the computational basis, and we have so far only dealt with simple superpositions of computational basis states. It would then be interesting to explore modifications to the Qritters update rule which generate superposition, or to explore dynamics in other bases.
+Right now the next thing on the to-do list is to modify the experiment to show quantum interference in the measurement statistics of the gliders.
