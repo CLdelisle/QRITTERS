@@ -8,7 +8,7 @@ It starts with a cellular automaton called [Critters](https://en.wikipedia.org/w
 
 ![glider](img/glider.gif)
 
-These gliders can then be "scattered" off of one another:
+These gliders interact, and in particular they can be "scattered" off of one another:
 
 A | B
 :- | :- 
